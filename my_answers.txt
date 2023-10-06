@@ -1,3 +1,7 @@
 hoi
 
+<<<<<<< HEAD
 Ik pas dit lokaal aan 
+=======
+ik pas dit aan in GitHub
+>>>>>>> 5d64601761e297f97745e5df9995035ee1c3ec7a
